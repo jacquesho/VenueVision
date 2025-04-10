@@ -1,2 +1,2 @@
 # VenueVision
-AI-Powered Insights for Concert Venue Management
+AI-Powered Insights for Concert Venue Management 🤘🏼😆
